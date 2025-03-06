@@ -1,6 +1,6 @@
 # DESIGN PATTERS
 
-Este projeto contem exemplos de exercicios que demonstram conceitos basicos de programacao orientada a objetos e design patterns. cada exercicio implementa um sistema simples usando classes e interfaces.
+Este projeto contem exemplos de exercicios que demonstram conceitos basicos de programacao orientada a objetos e design patterns. Cada exercicio implementa um sistema simples usando classes e interfaces.
 
 ## Exercicios
 
